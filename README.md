@@ -3,7 +3,7 @@ Assignment for class
 
 Code description.
 -----------------
-
+Takes a name and a score out of 100 as input, and outputs an ABCDF letter grade. 
 
 
 
