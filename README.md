@@ -31,4 +31,4 @@ else:
 
 print(f"{name}, your grade is an {grade}")
                 
-(The actual runnable code is within the codespace)
+(The actual runnable code is within grade.py)
